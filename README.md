@@ -37,14 +37,4 @@ Petopia aims to provide a comprehensive platform for **pet owners** and **pet ca
 
 ---
 
-## 🙋‍♂️ My Contribution – **Appointment Management**
-
-As part of the team, I was responsible for designing and implementing the **Appointment Management** module. My contributions include:
-
-- Implemented features for scheduling, and canceling appointments.  
-- Enabled real-time time slot availability to prevent double bookings.   
-- Developed admin capabilities to confirm, cancel, filter appointments, and generate reports.  
-- Enabled service providers to view confirmed appointments by service type and mark them as complete.  
-- Allowed users to view their upcoming and past appointments.  
-- Focused on delivering a smooth and user-friendly interface for a better experience.
 
